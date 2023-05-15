@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WSTD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WSTD_jar</output-path>
+    <root id="archive" name="WSTD.jar">
+      <element id="module-output" name="WSTD" />
+    </root>
+  </artifact>
+</component>
